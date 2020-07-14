@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Joel
 image: /img/3-1-.jpg
-heading: Great coffee with a conscience
+heading: sdsdsd
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
