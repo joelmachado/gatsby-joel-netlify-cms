@@ -26,6 +26,7 @@ export const IndexPageTemplate = ({
         backgroundAttachment: `fixed`,
       }}
     >
+    <button>+Add</button>
       <div
         style={{
           display: 'flex',
