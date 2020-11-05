@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Programador php freelancer - php, mysql e wordpress',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Programador php freelancer, criação de sites e lojas virtuais, aplicativos, blogs e sites em wordpress, programador php, laravel e mysql.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

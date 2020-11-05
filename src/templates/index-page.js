@@ -26,7 +26,7 @@ export const IndexPageTemplate = ({
         backgroundAttachment: `fixed`,
       }}
     >
-    <button>+Add</button>
+
       <div
         style={{
           display: 'flex',
@@ -65,6 +65,7 @@ export const IndexPageTemplate = ({
         </h3>
       </div>
     </div>
+    <button>+Add</button>
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
