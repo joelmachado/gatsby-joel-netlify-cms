@@ -65,7 +65,7 @@ export const IndexPageTemplate = ({
         </h3>
       </div>
     </div>
-    <button>+Add</button>
+   
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
