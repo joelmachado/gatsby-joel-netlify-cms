@@ -1,0 +1,14 @@
+{
+    "name": "Joel Machado",
+    "short_name": "Joel Machado",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "whitesmoke",
+    "description": "Programador php, laravel, wordpress.",
+    "theme_color": "whitesmoke",
+    "icons": [{
+      "src": "/img/logo.svg",
+      "sizes": "192x192",
+      "type": "image/png"
+    }]
+  }
