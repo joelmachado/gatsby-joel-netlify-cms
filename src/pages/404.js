@@ -9,5 +9,5 @@ const NotFoundPage = () => (
     </div>
   </Layout>
 )
-
+ 
 export default NotFoundPage
