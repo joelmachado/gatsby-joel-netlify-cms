@@ -1,6 +1,5 @@
 backend:
   name: git-gateway
-  repo:  joelmachado/gatsby-joel-netlify-cms 
   branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
