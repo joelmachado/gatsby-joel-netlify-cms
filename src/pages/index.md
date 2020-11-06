@@ -5,12 +5,12 @@ image: /img/3-1-.jpg
 heading: sdsdsd
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: Desenvolvedor PHP Full Stack
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Olá, meu nome é Joel Machado tenho sido um programador php em tempo integral por anos.  Antes disso, trabalhei principalmente em agências de publicidade fazendo trabalhos técnicos relacionados com o desenvolvimento de websites, blogs, sistemas web, e-commerce e outros.
+
+Ofereço serviços como freelancer em desenvolvimento web para empresas de todos os portes. Sou especialista em desenvolver soluções eficazes como websites, sistemas web, blogs e e-commerce. Tenho conhecimento em tecnologias para desenvolvimento web e mobile, entre elas Php5, Css3, Html5, Bootstrap, WordPress e Frameworks php.
+
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
