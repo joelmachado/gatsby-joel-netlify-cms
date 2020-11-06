@@ -1,12 +1,12 @@
 ---
 templateKey: index-page
-title: Joel
+title: 
 image: /img/3-1-.jpg
 heading: Desenvolvedor Full Stack
-subheading: WordPress, CodeIgniter, CakePhp, Laravel, Css3, Html5, Mysql e Linux.
+subheading: 
 mainpitch:
   title: Desenvolvedor PHP Full Stack
-  description: >
+  description:
     Olá, meu nome é Joel Machado tenho sido um programador php em tempo integral por anos.
     Antes disso, trabalhei principalmente em agências de publicidade fazendo trabalhos técnicos 
     relacionados com o desenvolvimento de websites, blogs, sistemas web, e-commerce e outros.
